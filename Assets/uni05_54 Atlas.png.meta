@@ -1,0 +1,1687 @@
+fileFormatVersion: 2
+guid: 71675932c150cd141a19f83d68cd5466
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4024550338680099
+    second: uni05_54 Atlas_0
+  - first:
+      213: -7731298662298928361
+    second: uni05_54 Atlas_1
+  - first:
+      213: 1066335308862242961
+    second: uni05_54 Atlas_2
+  - first:
+      213: -8227699645152636790
+    second: uni05_54 Atlas_3
+  - first:
+      213: 6699596095765128130
+    second: uni05_54 Atlas_4
+  - first:
+      213: 4244434176985141445
+    second: uni05_54 Atlas_5
+  - first:
+      213: -7350352983094175146
+    second: uni05_54 Atlas_6
+  - first:
+      213: -194594865906979207
+    second: uni05_54 Atlas_7
+  - first:
+      213: 6477273931210785458
+    second: uni05_54 Atlas_8
+  - first:
+      213: -3917400118333052496
+    second: uni05_54 Atlas_9
+  - first:
+      213: -8792590679120389847
+    second: uni05_54 Atlas_10
+  - first:
+      213: 4089043518163269541
+    second: uni05_54 Atlas_11
+  - first:
+      213: -7392075228557425556
+    second: uni05_54 Atlas_12
+  - first:
+      213: 5674192993686974970
+    second: uni05_54 Atlas_13
+  - first:
+      213: 4131562277076088765
+    second: uni05_54 Atlas_14
+  - first:
+      213: -1485500979407315755
+    second: uni05_54 Atlas_15
+  - first:
+      213: -4921144747862946621
+    second: uni05_54 Atlas_16
+  - first:
+      213: -3453681122216655020
+    second: uni05_54 Atlas_17
+  - first:
+      213: -5397525096949423446
+    second: uni05_54 Atlas_18
+  - first:
+      213: -7770936838815872569
+    second: uni05_54 Atlas_19
+  - first:
+      213: -9039852277423187828
+    second: uni05_54 Atlas_20
+  - first:
+      213: -9014057735014424205
+    second: uni05_54 Atlas_21
+  - first:
+      213: -6786771586734082561
+    second: uni05_54 Atlas_22
+  - first:
+      213: -224249302238015378
+    second: uni05_54 Atlas_23
+  - first:
+      213: 287574167641307306
+    second: uni05_54 Atlas_24
+  - first:
+      213: 665155283008781037
+    second: uni05_54 Atlas_25
+  - first:
+      213: -2550216817990072858
+    second: uni05_54 Atlas_26
+  - first:
+      213: 4537787745238596855
+    second: uni05_54 Atlas_27
+  - first:
+      213: 301579800362091709
+    second: uni05_54 Atlas_28
+  - first:
+      213: 4422144150453300172
+    second: uni05_54 Atlas_29
+  - first:
+      213: 864825173008161073
+    second: uni05_54 Atlas_30
+  - first:
+      213: -4152778525650634173
+    second: uni05_54 Atlas_31
+  - first:
+      213: -1033287830872966593
+    second: uni05_54 Atlas_32
+  - first:
+      213: 7499529016060726441
+    second: uni05_54 Atlas_33
+  - first:
+      213: -4060684415174626512
+    second: uni05_54 Atlas_34
+  - first:
+      213: -6998415631093902237
+    second: uni05_54 Atlas_35
+  - first:
+      213: -4956879697619348313
+    second: uni05_54 Atlas_36
+  - first:
+      213: 2355512629111304423
+    second: uni05_54 Atlas_37
+  - first:
+      213: 8109752807676857537
+    second: uni05_54 Atlas_38
+  - first:
+      213: -8243193788530920015
+    second: uni05_54 Atlas_39
+  - first:
+      213: 6562339359737586908
+    second: uni05_54 Atlas_40
+  - first:
+      213: 1168430453282634009
+    second: uni05_54 Atlas_41
+  - first:
+      213: 3565411156881396128
+    second: uni05_54 Atlas_42
+  - first:
+      213: 8852105086610725647
+    second: uni05_54 Atlas_43
+  - first:
+      213: -4212202574797352696
+    second: uni05_54 Atlas_44
+  - first:
+      213: -2017734115299969232
+    second: uni05_54 Atlas_45
+  - first:
+      213: 3720499594189931178
+    second: uni05_54 Atlas_46
+  - first:
+      213: -8200980700449949500
+    second: uni05_54 Atlas_47
+  - first:
+      213: 4094128597098413098
+    second: uni05_54 Atlas_48
+  - first:
+      213: 6327894943724566135
+    second: uni05_54 Atlas_49
+  - first:
+      213: 2173459661095210680
+    second: uni05_54 Atlas_50
+  - first:
+      213: -5703458450432505943
+    second: uni05_54 Atlas_51
+  - first:
+      213: 1467785372317450775
+    second: uni05_54 Atlas_52
+  - first:
+      213: -8713707120785508123
+    second: uni05_54 Atlas_53
+  - first:
+      213: 1160841533648055559
+    second: uni05_54 Atlas_54
+  - first:
+      213: 6346963652056479842
+    second: uni05_54 Atlas_55
+  - first:
+      213: -5542207772581838831
+    second: uni05_54 Atlas_56
+  - first:
+      213: -5474663100496857125
+    second: uni05_54 Atlas_57
+  - first:
+      213: 5901877923367465148
+    second: uni05_54 Atlas_58
+  - first:
+      213: 6398760158183500805
+    second: uni05_54 Atlas_59
+  - first:
+      213: -3763008587423674322
+    second: uni05_54 Atlas_60
+  - first:
+      213: -8934273158053608065
+    second: uni05_54 Atlas_61
+  - first:
+      213: -7313164333852119658
+    second: uni05_54 Atlas_62
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: uni05_54 Atlas_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 121
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3255155ae4c4e0000800000000000000
+      internalID: 4024550338680099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uni05_54 Atlas_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 113
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b383d24d8e4b490800000000000000
+      internalID: -7731298662298928361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uni05_54 Atlas_2
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 120
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 190c03050526cce00800000000000000
+      internalID: 1066335308862242961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uni05_54 Atlas_3
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 120
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a80d114d3c651dd80800000000000000
+      internalID: -8227699645152636790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uni05_54 Atlas_4
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 120
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3aca2372fb9fc50800000000000000
+      internalID: 6699596095765128130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uni05_54 Atlas_5
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 113
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c01abf556247ea30800000000000000
+      internalID: 4244434176985141445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uni05_54 Atlas_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 105
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a50fcd7ec4ef990800000000000000
+      internalID: -7350352983094175146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uni05_54 Atlas_7
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 103
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97eef7e1009ac4df0800000000000000
+      internalID: -194594865906979207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uni05_54 Atlas_8
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 113
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b287b68256e3e950800000000000000
+      internalID: 6477273931210785458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uni05_54 Atlas_9
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 107
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b96faff85992a9c0800000000000000
+      internalID: -3917400118333052496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uni05_54 Atlas_10
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 113
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9295e9bcc517af580800000000000000
+      internalID: -8792590679120389847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uni05_54 Atlas_11
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 113
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a73c334a633fb830800000000000000
+      internalID: 4089043518163269541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uni05_54 Atlas_12
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 107
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c64ced89eb21a6990800000000000000
+      internalID: -7392075228557425556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uni05_54 Atlas_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 97
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af1f8bfe678cebe40800000000000000
+      internalID: 5674192993686974970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uni05_54 Atlas_14
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 96
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db736844002465930800000000000000
+      internalID: 4131562277076088765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uni05_54 Atlas_15
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 101
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc9ee0dab0726be0800000000000000
+      internalID: -1485500979407315755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uni05_54 Atlas_16
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 94
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc8957dce494bbb0800000000000000
+      internalID: -4921144747862946621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uni05_54 Atlas_17
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 100
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 457cdc6515f0210d0800000000000000
+      internalID: -3453681122216655020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uni05_54 Atlas_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 86
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa2e21a85832815b0800000000000000
+      internalID: -5397525096949423446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uni05_54 Atlas_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 89
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c902660e16182490800000000000000
+      internalID: -7770936838815872569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uni05_54 Atlas_20
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 89
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c885f26bf3efb8280800000000000000
+      internalID: -9039852277423187828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uni05_54 Atlas_21
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 87
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3716a9f9f32a7e280800000000000000
+      internalID: -9014057735014424205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uni05_54 Atlas_22
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 93
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff53001233b80d1a0800000000000000
+      internalID: -6786771586734082561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uni05_54 Atlas_23
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 86
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6059fe927e43ecf0800000000000000
+      internalID: -224249302238015378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uni05_54 Atlas_24
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 63
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa8b6dc8e2badf300800000000000000
+      internalID: 287574167641307306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uni05_54 Atlas_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 81
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea763ca43b1b3900800000000000000
+      internalID: 665155283008781037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uni05_54 Atlas_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5897fc05fcb9cd0800000000000000
+      internalID: -2550216817990072858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uni05_54 Atlas_27
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 80
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc311d79e579fe30800000000000000
+      internalID: 4537787745238596855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uni05_54 Atlas_28
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 79
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db404080b3d6f2400800000000000000
+      internalID: 301579800362091709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uni05_54 Atlas_29
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 79
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb2751ecac9e5d30800000000000000
+      internalID: 4422144150453300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uni05_54 Atlas_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 54
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13997fda9e9700c00800000000000000
+      internalID: 864825173008161073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uni05_54 Atlas_31
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 72
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a39bbeeed5e56c0800000000000000
+      internalID: -4152778525650634173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uni05_54 Atlas_32
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 72
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a3512413609a1f0800000000000000
+      internalID: -1033287830872966593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uni05_54 Atlas_33
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 65
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9acc809e7eda31860800000000000000
+      internalID: 7499529016060726441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uni05_54 Atlas_34
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 72
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0333d80f90d85a7c0800000000000000
+      internalID: -4060684415174626512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uni05_54 Atlas_35
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 55
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3645b1e0012a0ee90800000000000000
+      internalID: -6998415631093902237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uni05_54 Atlas_36
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 58
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a49d0d7d20a53bb0800000000000000
+      internalID: -4956879697619348313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uni05_54 Atlas_37
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 51
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e03022914670b020800000000000000
+      internalID: 2355512629111304423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uni05_54 Atlas_38
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 57
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cc4ec51631ab8070800000000000000
+      internalID: 8109752807676857537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uni05_54 Atlas_39
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 51
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b578e37cea4a9d80800000000000000
+      internalID: -8243193788530920015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uni05_54 Atlas_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 36
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd429b001ec121b50800000000000000
+      internalID: 6562339359737586908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uni05_54 Atlas_41
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 48
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 919f8a08e49173010800000000000000
+      internalID: 1168430453282634009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uni05_54 Atlas_42
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 44
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a1512c8e82ea7130800000000000000
+      internalID: 3565411156881396128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uni05_54 Atlas_43
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 45
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0b5cd10daef8da70800000000000000
+      internalID: 8852105086610725647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uni05_54 Atlas_44
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 34
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 801d73f43104b85c0800000000000000
+      internalID: -4212202574797352696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uni05_54 Atlas_45
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 37
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 037bb5633819ff3e0800000000000000
+      internalID: -2017734115299969232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uni05_54 Atlas_46
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 39
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa20daa3baed1a330800000000000000
+      internalID: 3720499594189931178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uni05_54 Atlas_47
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 33
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c8b8dbe083403e80800000000000000
+      internalID: -8200980700449949500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uni05_54 Atlas_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 27
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2cb1d6744441d830800000000000000
+      internalID: 4094128597098413098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uni05_54 Atlas_49
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 30
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77671b8bce231d750800000000000000
+      internalID: 6327894943724566135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uni05_54 Atlas_50
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 23
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be8839db0ea92e10800000000000000
+      internalID: 2173459661095210680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uni05_54 Atlas_51
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 27
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a745cee1ce39d0b0800000000000000
+      internalID: -5703458450432505943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uni05_54 Atlas_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7120f7bf40f9e5410800000000000000
+      internalID: 1467785372317450775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uni05_54 Atlas_53
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 14
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e8b9c47a81b21780800000000000000
+      internalID: -8713707120785508123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uni05_54 Atlas_54
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 21
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70dac9579332c1010800000000000000
+      internalID: 1160841533648055559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uni05_54 Atlas_55
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 9
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 268742b50d1f41850800000000000000
+      internalID: 6346963652056479842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uni05_54 Atlas_56
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 7
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110c9db056f1613b0800000000000000
+      internalID: -5542207772581838831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uni05_54 Atlas_57
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 13
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd732f58ae61604b0800000000000000
+      internalID: -5474663100496857125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uni05_54 Atlas_58
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 7
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb0b90aa3bea7e150800000000000000
+      internalID: 5901877923367465148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uni05_54 Atlas_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c23773676fcc850800000000000000
+      internalID: 6398760158183500805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uni05_54 Atlas_60
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 0
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e201ed380ab17cbc0800000000000000
+      internalID: -3763008587423674322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uni05_54 Atlas_61
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 0
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7548e706e5130480800000000000000
+      internalID: -8934273158053608065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uni05_54 Atlas_62
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 0
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d20b009cb628a90800000000000000
+      internalID: -7313164333852119658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      uni05_54 Atlas_0: 4024550338680099
+      uni05_54 Atlas_1: -7731298662298928361
+      uni05_54 Atlas_10: -8792590679120389847
+      uni05_54 Atlas_11: 4089043518163269541
+      uni05_54 Atlas_12: -7392075228557425556
+      uni05_54 Atlas_13: 5674192993686974970
+      uni05_54 Atlas_14: 4131562277076088765
+      uni05_54 Atlas_15: -1485500979407315755
+      uni05_54 Atlas_16: -4921144747862946621
+      uni05_54 Atlas_17: -3453681122216655020
+      uni05_54 Atlas_18: -5397525096949423446
+      uni05_54 Atlas_19: -7770936838815872569
+      uni05_54 Atlas_2: 1066335308862242961
+      uni05_54 Atlas_20: -9039852277423187828
+      uni05_54 Atlas_21: -9014057735014424205
+      uni05_54 Atlas_22: -6786771586734082561
+      uni05_54 Atlas_23: -224249302238015378
+      uni05_54 Atlas_24: 287574167641307306
+      uni05_54 Atlas_25: 665155283008781037
+      uni05_54 Atlas_26: -2550216817990072858
+      uni05_54 Atlas_27: 4537787745238596855
+      uni05_54 Atlas_28: 301579800362091709
+      uni05_54 Atlas_29: 4422144150453300172
+      uni05_54 Atlas_3: -8227699645152636790
+      uni05_54 Atlas_30: 864825173008161073
+      uni05_54 Atlas_31: -4152778525650634173
+      uni05_54 Atlas_32: -1033287830872966593
+      uni05_54 Atlas_33: 7499529016060726441
+      uni05_54 Atlas_34: -4060684415174626512
+      uni05_54 Atlas_35: -6998415631093902237
+      uni05_54 Atlas_36: -4956879697619348313
+      uni05_54 Atlas_37: 2355512629111304423
+      uni05_54 Atlas_38: 8109752807676857537
+      uni05_54 Atlas_39: -8243193788530920015
+      uni05_54 Atlas_4: 6699596095765128130
+      uni05_54 Atlas_40: 6562339359737586908
+      uni05_54 Atlas_41: 1168430453282634009
+      uni05_54 Atlas_42: 3565411156881396128
+      uni05_54 Atlas_43: 8852105086610725647
+      uni05_54 Atlas_44: -4212202574797352696
+      uni05_54 Atlas_45: -2017734115299969232
+      uni05_54 Atlas_46: 3720499594189931178
+      uni05_54 Atlas_47: -8200980700449949500
+      uni05_54 Atlas_48: 4094128597098413098
+      uni05_54 Atlas_49: 6327894943724566135
+      uni05_54 Atlas_5: 4244434176985141445
+      uni05_54 Atlas_50: 2173459661095210680
+      uni05_54 Atlas_51: -5703458450432505943
+      uni05_54 Atlas_52: 1467785372317450775
+      uni05_54 Atlas_53: -8713707120785508123
+      uni05_54 Atlas_54: 1160841533648055559
+      uni05_54 Atlas_55: 6346963652056479842
+      uni05_54 Atlas_56: -5542207772581838831
+      uni05_54 Atlas_57: -5474663100496857125
+      uni05_54 Atlas_58: 5901877923367465148
+      uni05_54 Atlas_59: 6398760158183500805
+      uni05_54 Atlas_6: -7350352983094175146
+      uni05_54 Atlas_60: -3763008587423674322
+      uni05_54 Atlas_61: -8934273158053608065
+      uni05_54 Atlas_62: -7313164333852119658
+      uni05_54 Atlas_7: -194594865906979207
+      uni05_54 Atlas_8: 6477273931210785458
+      uni05_54 Atlas_9: -3917400118333052496
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
