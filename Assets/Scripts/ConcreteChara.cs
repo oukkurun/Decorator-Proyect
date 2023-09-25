@@ -1,13 +1,17 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Video;
 
 public class ConcreteChara : Chara
 {
 
-    public override int vida = 10;
-    public override int ataque = 15;
-    public override int defensa = 5;
+    private void Start()
+    {
+        vida = 10;
+        defensa = 10;
+        ataque = 10;
+    }
 
 
     public override int devolverVida()
