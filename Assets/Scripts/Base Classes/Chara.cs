@@ -4,9 +4,9 @@ using UnityEngine;
 
 public abstract class Chara : MonoBehaviour
 {
-    [SerializeField] protected int vida;
-    [SerializeField] protected int defensa;
-    [SerializeField] protected int ataque;
+    protected int vida;
+    protected int defensa;
+    protected int ataque;
 
     public abstract int devolverVida();
     public abstract int devolverAtaque();
