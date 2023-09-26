@@ -12,12 +12,12 @@ public class textCanva : MonoBehaviour
     void Start()
     {
 
-        txtpro.GetComponent<TextMeshProUGUI>().text = "Vida: " + mainchara.devolverVida().ToString() + "Ataque: " + mainchara.devolverAtaque().ToString() + "Defensa: " + mainchara.devolverDefensa().ToString();
+        
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+        txtpro.GetComponent<TextMeshProUGUI>().text = "Vida: " + mainchara.devolverVida(0) + "Ataque: " + mainchara.devolverAtaque(0) + "Defensa: " + mainchara.devolverDefensa(0);
     }
 }

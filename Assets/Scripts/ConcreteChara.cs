@@ -11,19 +11,21 @@ public class ConcreteChara : Chara
         vida = 10;
         defensa = 10;
         ataque = 10;
+
+        Debug.Log("Ataque Chara: " + devolverAtaque(ataque).ToString());
     }
 
 
-    public override int devolverVida()
+    public override int devolverVida(int v)
     {
-        return vida;
+        return vida += v;
     }
-    public override int devolverAtaque()
+    public override int devolverAtaque(int v)
     {
-        return ataque;
+        return ataque += v;
     }
-    public override int devolverDefensa()
+    public override int devolverDefensa(int v)
     {
-        return defensa;
+        return defensa += v;
     }
 }

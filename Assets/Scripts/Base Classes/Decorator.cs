@@ -9,18 +9,18 @@ public class Decorator : Chara
     [SerializeField] 
     protected Chara componente;
 
-    public override int devolverVida()
+    public override int devolverVida(int v)
     {
        
-        return vida += componente.devolverVida();
+        return v += componente.devolverVida(vida);
     }
-    public override int devolverAtaque()
+    public override int devolverAtaque(int v)
     {
-        return ataque += componente.devolverAtaque();
+        return v += componente.devolverAtaque(ataque);
     }
-    public override int devolverDefensa()
+    public override int devolverDefensa(int v)
     {
-        return defensa += componente.devolverDefensa();
+        return v += componente.devolverDefensa(defensa);
     }
 
 }

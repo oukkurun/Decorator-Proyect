@@ -10,5 +10,7 @@ public class CollarDecorator : Decorator
         vida = 7;
         defensa = 0;
         ataque = 2;
+
+        Debug.Log("Ataque Collar: " + devolverAtaque(ataque).ToString());
     }
 }

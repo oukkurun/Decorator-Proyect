@@ -10,5 +10,7 @@ public class EspadaDecorator : Decorator
         vida = 0;
         defensa = 0;
         ataque = 15;
+
+        Debug.Log("Ataque Espada : " + devolverAtaque(ataque).ToString());
     }
 }

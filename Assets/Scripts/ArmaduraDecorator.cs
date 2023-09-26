@@ -10,6 +10,9 @@ public class ArmaduraDecorator : Decorator
         vida = 0;
         defensa = 8;
         ataque = 0;
+
+        Debug.Log("Ataque Armadura: " + devolverAtaque(ataque).ToString());
     }
 
+    
 }
