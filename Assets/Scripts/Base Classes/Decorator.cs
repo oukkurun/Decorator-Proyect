@@ -12,15 +12,15 @@ public class Decorator : Chara
     public override int devolverVida()
     {
        
-        return vida + componente.devolverVida();
+        return vida += componente.devolverVida();
     }
     public override int devolverAtaque()
     {
-        return ataque + componente.devolverAtaque();
+        return ataque += componente.devolverAtaque();
     }
     public override int devolverDefensa()
     {
-        return defensa + componente.devolverDefensa();
+        return defensa += componente.devolverDefensa();
     }
 
 }
