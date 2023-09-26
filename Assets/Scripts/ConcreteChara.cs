@@ -12,23 +12,23 @@ public class ConcreteChara : Chara
         defensa = 10;
         ataque = 10;
 
-        Debug.Log("Ataque Chara: " + devolverAtaque(ataque).ToString());
+        
     }
 
 
     public override int devolverVida(int v)
     {
-        int resultado = v += vida;
+        int resultado = v += this.vida;
         return resultado;
     }
     public override int devolverAtaque(int v)
     {
-        int resultado = v += ataque;
+        int resultado = v += this.ataque;
         return resultado;
     }
     public override int devolverDefensa(int v)
     {
-        int resultado = v += defensa;
+        int resultado = v += this.defensa;
         return resultado;
     }
 }

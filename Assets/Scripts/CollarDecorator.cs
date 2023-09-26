@@ -11,24 +11,22 @@ public class CollarDecorator : Decorator
         defensa = 0;
         ataque = 2;
 
-        Debug.Log("Ataque Collar: " + devolverAtaque(ataque).ToString());
-
 
     }
 
     public override int devolverVida(int v)
     {
-        int resultado = v += componente.devolverVida(vida);
+        int resultado = v += componente.devolverVida(this.vida);
         return resultado;
     }
     public override int devolverAtaque(int v)
     {
-        int resultado = v += componente.devolverVida(ataque);
+        int resultado = v += componente.devolverAtaque(this.ataque);
         return resultado;
     }
     public override int devolverDefensa(int v)
     {
-        int resultado = v += componente.devolverVida(defensa);
+        int resultado = v += componente.devolverDefensa(this.defensa);
         return resultado;
     }
 }
