@@ -18,14 +18,17 @@ public class ConcreteChara : Chara
 
     public override int devolverVida(int v)
     {
-        return vida += v;
+        int resultado = v += vida;
+        return resultado;
     }
     public override int devolverAtaque(int v)
     {
-        return ataque += v;
+        int resultado = v += ataque;
+        return resultado;
     }
     public override int devolverDefensa(int v)
     {
-        return defensa += v;
+        int resultado = v += defensa;
+        return resultado;
     }
 }
